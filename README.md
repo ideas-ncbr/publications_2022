@@ -1,5 +1,5 @@
 
-| | **Paper Title** | **Authors** | **Conference/Journal Name** | **Paper Link** | **Code Link** |
+| 2022 | **Paper Title** | **Authors** | **Conference/Journal Name** | **Paper Link** | **Code Link** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | "The Surprising Effectiveness of Latent World Models for Continual Reinforcement Learning" | Samuel Kessler, Piotr Miłoś, Jack Parker-Holder, Stephen J. Roberts | Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) | [Link](https://arxiv.org/abs/2211.15944) |  |
 | 2 | Improved Feature Importance Computation for Tree Models Based on the Banzhaf Value | Adam Karczmarz, Tomasz Michalak, Anish Mukherjee, Piotr Sankowski, Piotr Wygocki | The 38th Conference on Uncertainty in Artificial Intelligence (UAI) | [Link](https://proceedings.mlr.press/v180/karczmarz22a.html) |  |
